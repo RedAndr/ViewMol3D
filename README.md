@@ -5,6 +5,6 @@ ViewMol3D
 
 Needs to compile:
 <ul>
-<li>FLTK library: http://www.fltk.org/</li>
+<li>FLTK library: [http://www.fltk.org/](https://github.com/fltk/fltk)</li>
 <li>NewMat library: http://ideas.repec.org/c/cod/ccplus/newmat.html</li>
 </ul>
